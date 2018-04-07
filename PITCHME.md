@@ -129,9 +129,12 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
-### Entropy in different hyrbid materials
+### Entropy in different hyrbid perovskites
 
 <img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 650px;"/>
+
+* Molecular units at various sites
+* Compare to fully inorganic SrTiO$_3$
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
