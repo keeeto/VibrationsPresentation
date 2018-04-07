@@ -56,6 +56,8 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <img src="Figures/GoldschmidtHybrid.png" alt="Goldschmidt" style="width: 650px;"/> 
 
+* Approach seems to work quite well for many systems
+
 <small> *Chem. Sci.*, **2014**, 5, 4712</small>
 ---
 
