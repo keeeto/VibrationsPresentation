@@ -7,7 +7,7 @@
 
 ### Flux Design
 
-$\Delta G = \Delta U$
+$$\Delta G = \Delta U$$
 ---
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
