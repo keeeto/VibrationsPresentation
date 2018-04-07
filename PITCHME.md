@@ -8,7 +8,7 @@
 
 * Chemical formula: ABX$_3$
 
-![CaTiO3](Figures/CaTiO3.png =150x)
+![CaTiO3](Figures/CaTiO3.png =15x)
 
 ---
 
