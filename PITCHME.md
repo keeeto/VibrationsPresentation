@@ -30,12 +30,12 @@
 ### The problem with perovskites
 
 * Inherent instability
-
-<img src="Figures/Decompositions.jpeg" alt="MAPbBr3" style="width: 350px;"/> 
-
     * Water
     * Oxygen
     * Light!!
+
+<img src="Figures/Decompositions.jpeg" alt="MAPbBr3" style="width: 350px;"/> 
+
 ---
 
 
