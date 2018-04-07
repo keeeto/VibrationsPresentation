@@ -68,7 +68,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Formate perovskites
 
-<img src="Figures/PerovskiteChannel.png" alt="Formate" style="width: 550px;"/> 
+<img src="Figures/PerovskiteChannel.png" alt="Formate" style="width: 700px;"/> 
 
 * Structures do not follow the Goldschmidt predictions
 
