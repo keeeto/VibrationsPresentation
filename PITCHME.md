@@ -74,6 +74,14 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
+### Formate perovskites
+
+<img src="Figures/PerovskiteChannel.png" alt="Formate" style="width: 700px;"/> 
+
+* DFT energies do not match experiment
+* $$\Delta G = \Delta U + pV + T \Delta S$$ |
+* $$\Delta G \simeq \Delta U$$ |
+---
 
 ### Flux Design
 
