@@ -4,7 +4,7 @@
  Keith T. Butler
 
 ---
-### Hybrid perovskites
+### Perovskites
 
 * Chemical formula: $ABX_3$
 
