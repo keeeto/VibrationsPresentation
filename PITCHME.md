@@ -22,7 +22,7 @@
 
 * Perovskite PV has enjoyed enormous success
 
- <img src="Figures/Efficiencies.jpg" alt="Efficiencies" style="width: 450px;"/>
+ <img src="Figures/Efficiencies.jpg" alt="Efficiencies" style="width: 250px;"/>
 ---
 
 
