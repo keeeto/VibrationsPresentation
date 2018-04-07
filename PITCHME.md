@@ -1,6 +1,6 @@
-# Flux 
-
-An application architecture for React
+# Low frequency oscillations and highly disordered molecules
+## The role of entropy in phase transitions of hybrid organic-inorganic materials
+### Keith T. Butler
 
 ---
 
