@@ -44,7 +44,7 @@
     * Rigid body appraoch
     * Derived for inorganic oxide perovskites
 
-<img src="Figures/Goldschmidt.pdf" alt="Goldschmidt" style="width: 550px;"/> 
+<img src="Figures/Goldschmidt.png" alt="Goldschmidt" style="width: 550px;"/> 
 
 ---
 
