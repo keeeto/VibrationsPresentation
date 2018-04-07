@@ -131,7 +131,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Entropy in different hyrbid materials
 
-<img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 350px;"/>
+<img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 650px;"/>
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
