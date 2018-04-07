@@ -110,8 +110,11 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * Born & von Kármán **1914**
     * Description of these vibrations
     * All the tools of lattice dynamics
- 
+---
+### Supercomputers allow accurate lattice dynamics calculations
 
+<img src="Figures/MooresLaw.png" alt="Formate" style="width: 400px;"/> 
+<img src="Figures/Archer.png" alt="Formate" style="width: 400px;"/> 
 
 ---
 
