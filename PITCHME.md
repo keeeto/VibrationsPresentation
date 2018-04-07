@@ -18,6 +18,12 @@
 <img src="Figures/MAPbBr3.png" alt="MAPbBr3" style="width: 250px;"/> 
 
 ---
+### Hybrid perovskite PV
+
+* Perovskite PV has enjoyed enormous success
+
+ <img src="Figures/Efficiencies.png" alt="Efficiencies" style="width: 450px;"/>
+---
 
 
 ### Flux Design
