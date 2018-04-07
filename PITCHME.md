@@ -9,7 +9,7 @@
 * Chemical formula: $ABX_3$
 * Replace $A$ with a molecule 
 
-![Ca](Figures/MAPbBr3.png){:height="36px" width="36px"}![MA](Figures/MAPbBr3.png){:height="36px" width="36px"}
+![Ca](Figures/MAPbBr3.png | width=100)![MA](Figures/MAPbBr3.png | width=100)
 
 ---
 
