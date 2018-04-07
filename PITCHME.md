@@ -105,7 +105,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/TheLads.png" alt="Formate" style="width: 700px;"/> 
 
 * Einstein **1912**
-    * T dependence of $$C_v$$
+    * T dependence of Cv
     * Postulated vibrations
 * Born & von Kármán **1914**
     * Description of these vibrations
