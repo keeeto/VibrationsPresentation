@@ -54,7 +54,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 * Define an effective radius for molecules
 
-<img src="Figures/GoldschmidtHybrid.png" alt="Goldschmidt" style="width: 550px;"/> 
+<img src="Figures/GoldschmidtHybrid.png" alt="Goldschmidt" style="width: 650px;"/> 
 
 <small> *Chem. Sci.*, **2014**, 5, 4712</small>
 ---
