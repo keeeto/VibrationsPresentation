@@ -4,6 +4,13 @@
  Keith T. Butler
 
 ---
+### Hybrid perovskites
+
+* Chemical formula: ABX$_3$
+
+![CaTiO3](Figures/CaTiO3.png)
+
+---
 
 ### Flux Design
 
