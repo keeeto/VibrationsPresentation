@@ -1,10 +1,15 @@
-## Remove boarders from images
+/*********************************************
+ *  Remove boarders from images
+ *********************************************/
+
 .reveal section img {
       border: 0;
         box-shadow: none;
     }
 
-## The default font size
+/*********************************************
+ *  Change default font size
+ *********************************************/
 .reveal {
       font-family: Ubuntu, "sans-serif";
         font-size: 25px;
