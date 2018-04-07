@@ -62,7 +62,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Formate perovskites
 
-<img src="Figures/Formate.png" alt="Formate" style="width: 650px;"/> 
+<img src="Figures/Formate.png" alt="Formate" style="width: 550px;"/> 
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
