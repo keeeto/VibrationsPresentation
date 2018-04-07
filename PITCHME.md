@@ -84,11 +84,11 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
-### Origin of entropy I: Vibrational entropy ($S_{vib}$)
+### Origins of entropy I: Vibrational entropy
 
 * Hybrid lattices are far from static
 * Temperature induces vibrations
-<img src="Figures/vibrations-Mode057.gif" alt="Formate" style="width: 550px;"/> 
+<img src="Figures/vibrations-Mode057.gif" alt="Formate" style="width: 450px;"/> 
 
 ---
 
