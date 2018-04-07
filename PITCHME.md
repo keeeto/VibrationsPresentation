@@ -35,7 +35,7 @@
 
 <img src="Figures/Decompositions.jpeg" alt="MAPbBr3" style="width: 350px;"/> 
 
-<small>Nano Lett., 2014, 14 (5), pp 2584</small>
+<small> Butler, *Nano Lett.*, **2014**, 14, 2584</small>
 
 ---
 ### Designing new perovskites
@@ -48,6 +48,7 @@
 
 $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
+<small> *Die Naturwissenschaften*, **1926**, 21, 477</small>
 ---
 
 
