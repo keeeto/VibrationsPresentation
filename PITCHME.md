@@ -23,9 +23,8 @@
 
 ![EFF](Figures/Efficiencies.jpg)
 
-* Perovskite cells are cheap to produce cdsj 
+* Perovskite cells are cheap to produce 
 
- 
 ---
 ### The problem with perovskites
 
@@ -35,6 +34,7 @@
     * <small> Light!! </small>
 
 
+<img src="Figures/Decompositions.jpeg" alt="MAPbBr3" style="width: 350px;"/> 
 <small>Nano Lett., 2014, 14 (5), pp 2584</small>
 
 ---
