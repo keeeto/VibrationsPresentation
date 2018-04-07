@@ -6,15 +6,13 @@
 ---
 ### Hybrid perovskites
 
-* Chemical formula: ABX$_3$
-* Chemical formula: ABX$_3$
-* Chemical formula: ABX$_3$
-* Chemical formula: ABX$_3$
-* Chemical formula: ABX$_3$
-* Chemical formula: ABX$_3$
+* Chemical formula: $ABX_3$
 
-<img src="Figures/CaTiO3.png" alt="caTiO3" style="width: 100px;"/>
+<img src="Figures/CaTiO3.png" alt="caTiO3" style="width: 150px;"/>
 
+* Replace $A$ with a molecule 
+
+<img src="Figures/MAPbBr3.png" alt="MAPbBr3" style="width: 150px;"/>
 ---
 
 ### Flux Design
