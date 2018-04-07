@@ -7,6 +7,11 @@
 ### Hybrid perovskites
 
 * Chemical formula: ABX$_3$
+* Chemical formula: ABX$_3$
+* Chemical formula: ABX$_3$
+* Chemical formula: ABX$_3$
+* Chemical formula: ABX$_3$
+* Chemical formula: ABX$_3$
 
 <img src="Figures/CaTiO3.png" alt="caTiO3" style="width: 100px;"/>
 
