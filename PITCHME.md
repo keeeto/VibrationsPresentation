@@ -94,7 +94,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Origins of entropy I: Vibrational entropy
 
-<img src="Figures/QHO_wiki.png" alt="Formate" style="width: 400px;"/> 
+<img src="Figures/QHO_wiki.png" alt="Formate" style="width: 500px;"/> 
 
 * Vibrations can be represented as harmonic oscillations
 * $$S_{vib} = \frac{1}{2T} \sum \hbar\omega \text{coth}(\hbar\omega/2k_BT) - k_B \sum \ln(2 \text{sinh}(\hbar \omega/2k_BT))$$ 
