@@ -50,6 +50,14 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> *Die Naturwissenschaften*, **1926**, 21, 477</small>
 ---
+### Tolerance Factors in hybrids
+
+* Define an effective radius for molecules
+
+<img src="Figures/GoldschmidtHybrid.png" alt="Goldschmidt" style="width: 550px;"/> 
+
+<small> *Chem. Sci.*, **2014**, 5, 4712</small>
+---
 
 
 ### Flux Design
