@@ -97,8 +97,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/QHO_wiki.png" alt="Formate" style="width: 400px;"/> 
 
 * Vibrations can be represented as harmonic oscillations
-* $$S_{vib} = \frac{1}{2T} \sum \hbar\omega coth(\hbar\omega/2k_BT)$$ 
-* $$S_{vib} = \frac{1}{2T}\sum_{v}\hbar\omega coth(\hbar\omega/2k_BT)$$ 
+* $$S_{vib} = \frac{1}{2T} \sum \hbar\omega coth(\hbar\omega/2k_BT) - k_B \sum \Ln(2 sinh(\hbar \omega/2k_BT))$$ 
 
 ---
 
