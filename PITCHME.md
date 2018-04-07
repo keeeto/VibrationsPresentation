@@ -38,6 +38,15 @@
 <small>Nano Lett., 2014, 14 (5), pp 2584</small>
 
 ---
+### Designing new perovskites
+
+* Goldschmidt tolerance factor gives a design principle
+    * Rigid body appraoch
+    * Derived for inorganic oxide perovskites
+
+<img src="Figures/Goldschmidt.pdf" alt="Goldschmidt" style="width: 550px;"/> 
+
+---
 
 
 ### Flux Design
