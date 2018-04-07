@@ -9,7 +9,7 @@
 * Chemical formula: $ABX_3$
 * Replace $A$ with a molecule 
 
-![Ca](Figures/MAPbBr3.png | width=100)![MA](Figures/MAPbBr3.png | width=100)
+<img src="Figures/MAPbBr3.png" alt="caTiO3" style="width: 250px;"/> <img src="Figures/CaTiO3.png" alt="MAPbBr3" style="width: 250px;"/>
 
 ---
 
