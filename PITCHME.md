@@ -31,11 +31,11 @@
 
 * Inherent instability
 
-<img src="Figures/Decompositions.jpeg" alt="MAPbBr3" style="width: 250px;"/> 
+<img src="Figures/Decompositions.jpeg" alt="MAPbBr3" style="width: 350px;"/> 
 
-* Water
-* Oxygen
-* Light!!
+    * Water
+    * Oxygen
+    * Light!!
 ---
 
 
