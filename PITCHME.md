@@ -36,6 +36,8 @@
 
 <img src="Figures/Decompositions.jpeg" alt="MAPbBr3" style="width: 350px;"/> 
 
+<small>Nano Lett., 2014, 14 (5), pp 2584</small>
+
 ---
 
 
