@@ -117,7 +117,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/Archer.png" alt="Formate" style="width: 355px;"/> 
 
 ---
-### $$S_{vib}$$ stabilises the channel structure
+### Entropy stabilises the channel structure
 
 * Solid line - entropy
 * Dashed line - free energy
@@ -126,6 +126,8 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
  
 * <span style="color:orange"> Orange - perovskite structure </span>
 * <span style="color:blue"> Blue - channel structure </span>
+
+<small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
 
 ### Flux Design
