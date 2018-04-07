@@ -76,7 +76,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Formate perovskites
 
-<img src="Figures/DFTEnergies.png" alt="Formate" style="width: 700px;"/> 
+<img src="Figures/DFTEnergies.png" alt="Formate" style="width: 550px;"/> 
 
 * DFT energies do not match experiment
 * $$\Delta G = \Delta U + pV + T \Delta S$$ |
