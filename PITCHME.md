@@ -129,6 +129,12 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
+### Entropy in different hyrbid materials
+
+<img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 350px;"/>
+
+<small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
+---
 
 ### Flux Design
 
