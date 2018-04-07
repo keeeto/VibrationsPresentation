@@ -121,9 +121,11 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 * Solid line - entropy
 * Dashed line - free energy
-<img src="Figures/FormateFreeEnergy.png" alt="FormateFreeEnergy" style="width: 500px;"/> 
-* <span style="color:red"> Orange - perovskite structure </span>
-* Blue - channel structure
+
+<img src="Figures/FormateFreeEnergy.png" alt="FormateFreeEnergy" style="width: 350px;"/>
+ 
+* <span style="color:orange"> Orange - perovskite structure </span>
+* <span style="color:blue"> Blue - channel structure </span>
 ---
 
 ### Flux Design
