@@ -46,6 +46,8 @@
 
 <img src="Figures/Goldschmidt.png" alt="Goldschmidt" style="width: 550px;"/> 
 
+$$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
+
 ---
 
 
