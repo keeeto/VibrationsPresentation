@@ -100,6 +100,20 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * $$S_{vib} = \frac{1}{2T} \sum \hbar\omega \text{coth}(\hbar\omega/2k_BT) - k_B \sum \ln(2 \text{sinh}(\hbar \omega/2k_BT))$$ 
 
 ---
+### Lattice dynamics allows the calculation of $$S_{vib}$$
+
+<img src="Figures/TheLads.png" alt="Formate" style="width: 700px;"/> 
+
+* Einstein **1912**
+    * T dependence of C$$_v$$
+    * Postulated vibrations
+* Born & von Kármán **1914**
+    * Description of these vibrations
+    * All the tools of lattice dynamics
+ 
+
+
+---
 
 ### Flux Design
 
