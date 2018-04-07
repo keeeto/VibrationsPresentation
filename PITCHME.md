@@ -20,9 +20,21 @@
 ---
 ### Hybrid perovskite PV
 
-* Perovskite PV has enjoyed enormous success
 
 ![EFF](Figures/Efficiencies.jpg)
+
+* Perovskite cells are cheap to produce cdsj 
+
+ 
+---
+### The problem with perovskites
+
+* Inherent instability
+
+![](Figures/Decompositions.jpeg)
+* Water
+* Oxygen
+* Light!!
 ---
 
 
