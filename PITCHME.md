@@ -199,24 +199,37 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/HBondStrength.jpeg" alt="MAPbBr3" style="width: 450px;"/>
 
 * Hybrid systems all feature hydrogen bonds
-* Differences in energy on the order of 1 - 10 kJmol$^{-1}$
+* Differences in energy on the order of 1 - 30 kJmol$^{-1}$
 
 <small> Butler, *J. Phys. Chem. Lett.*, **2017**, 8, 24, 6154</small>
 ---
-### Hydrogen bond strength and $S_{vib}$
+### Hydrogen bond strength and Entropy
 
 
-<img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 450px;"/>
-<img src="Figures/TightBond.png" alt="MAPbBr3" style="width: 450px;"/>
+<img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 400px;"/>
+<img src="Figures/TightBond.png" alt="MAPbBr3" style="width: 400px;"/>
 
 * More stable bond has fewer availabe microstates
 * Less stable bond has greater $S_{vib}$
 
 <small> Butler, *In review*, **2018**</small>
 ---
+### Competing Origins of Stability
+
+
+<img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 400px;"/>
+<img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 400px;"/>
+
+* $\Delta U \simeq 1 - 30 \text{kJmol}^{-1}$
+* $\Delta S_{vib} \simeq 1 - 20 \text{kJmol}^{-1}$
+* $\Delta S_{config} \simeq 1 - 30 \text{kJmol}^{-1}$
+
+<small> Butler, *In review*, **2018**</small>
+---
+### Flux Design
 ### Flux Design
 
-$$\Delta G = \Delta U$$
+$$\Delta G \simeq \Delta U$$
 ---
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
