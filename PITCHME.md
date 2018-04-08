@@ -134,7 +134,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 650px;"/>
 
 * Molecular units at various sites
-* Compare to fully inorganic SrTiO$_3$
+* Compare to fully inorganic STO, SrTiO$_3$
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
@@ -143,7 +143,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/HybridsFreeEnergy.png" alt="FormateFreeEnergy" style="width: 475px;"/>
 
 * All hybrid materials have $S_{vib}$ differences
-* SrTi$\text{O}_{3}$ has no $S_{vib}$ difference
+* STO has no $S_{vib}$ difference
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
