@@ -174,9 +174,9 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Origins of entropy I: Configurational entropy
 
-| Ordered       | Disordered    |
-| ------------- |:-------------:|
-| [![](Figures/Ordered.png)]      | <img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 250px;"/> |
+-------------- --------------
+![](Figures/Ordered.png)
+-------------- --------------
 ---
 ### Flux Design
 
