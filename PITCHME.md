@@ -183,6 +183,17 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> *J. Phys. Chem. Solids*, **1990**, 51, 1383</small>
 ---
+### Free Energy of Three Phases
+
+<img src="Figures/Phases.png" alt="MAPbBr3" style="width: 450px;"/>
+
+<img src="Figures/FreeEnergyWithConfig.png" alt="MAPbBr3" style="width: 450px;"/>
+
+* Phase change predicted from calculations
+* Close to experimental values
+
+<small> Butler, *In review*, **2018**</small>
+---
 ### Flux Design
 
 $$\Delta G = \Delta U$$
