@@ -140,7 +140,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Entropy in different hyrbid perovskites
 
-<img src="Figures/HybridsFreeEnergy.png" alt="FormateFreeEnergy" style="width: 650px;"/>
+<img src="Figures/HybridsFreeEnergy.png" alt="FormateFreeEnergy" style="width: 500px;"/>
 
 * All hybrid materials have $S_{vib}$ differences
 * SrTiO$_3$ has no $S_{vib}$ difference
