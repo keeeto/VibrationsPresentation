@@ -196,7 +196,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Hydrogen Bonding In Hybrids
 
-<img src="Figures/Figures/HBondStrength.jpeg" alt="MAPbBr3" style="width: 450px;"/>
+<img src="Figures/HBondStrength.jpeg" alt="MAPbBr3" style="width: 450px;"/>
 
 * Hybrid systems all feature hydrogen bonds
 * Differences in energy on the order of 1 kJmol$^{-1}$
