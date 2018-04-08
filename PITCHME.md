@@ -174,8 +174,9 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Origins of entropy II: Configurational entropy
 
-<img src="Figures/OrderDisoeder.png" alt="MAPbBr3" style="width: 550px;"/>
+<img src="Figures/GraveStone.png" alt="MAPbBr3" style="width: 550px;"/>
 
+<img src="Figures/OrderDisoeder.png" alt="MAPbBr3" style="width: 450px;"/>
 ---
 ### Origins of entropy II: Configurational entropy
 
