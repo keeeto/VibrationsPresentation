@@ -165,7 +165,18 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ### Free Energy of Three Phases
 
 <img src="Figures/Phases.png" alt="MAPbBr3" style="width: 450px;"/>
+
 <img src="Figures/FreeEnergyNoConfig.png" alt="MAPbBr3" style="width: 450px;"/>
+
+* No phase change predicted from calculations
+
+<small> Butler, *In review*, **2018**</small>
+---
+### Origins of entropy I: Configurational entropy
+
+| Ordered       | Disordered    |
+| ------------- |:-------------:|
+| <img src="Figures/Ordered.png" alt="MAPbBr3" style="width: 250px;"/>      | <img src="Figures/Disrdered.png" alt="MAPbBr3" style="width: 250px;"/> |
 ---
 ### Flux Design
 
