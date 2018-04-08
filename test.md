@@ -1,10 +1,7 @@
-| Tables        | Are           |
+| Ordered        | Disordered           |
 | ------------- |:-------------:|
 | <img src="Figures/Ordered.png" alt="MAPbBr3" style="width: 250px;"/> |<img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 250px;"/> |
+| $U = 0$ | $U = 0$ |
+| $W = 1$ | $W = 6$ |
+| $S = K_b\ln(1)$| $S = K_b\ln(6)$
 
-
- Tables        | Are           | Tables        | Are           
- ------------- |:-------------:| ------------- |:-------------:
- <img src="Figures/Ordered.png" alt="MAPbBr3" style="width: 250px;"/>|0 |1  |0 
- <img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 250px;"/> | 0 | 1 | $k_B \ln(6)$ 
- 
