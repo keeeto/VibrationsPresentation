@@ -41,7 +41,7 @@
 ### Designing new perovskites
 
 * Goldschmidt tolerance factor gives a design principle
-    * Rigid body appraoch
+    * Rigid body approach
     * Derived for inorganic oxide perovskites
 
 <img src="Figures/Goldschmidt.png" alt="Goldschmidt" style="width: 550px;"/> 
@@ -129,7 +129,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
-### Entropy in different hyrbid perovskites
+### Entropy in different hybrid perovskites
 
 <img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 650px;"/>
 
@@ -138,7 +138,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
-### Entropy in different hyrbid perovskites
+### Entropy in different hybrid perovskites
 
 <img src="Figures/HybridsFreeEnergy.png" alt="FormateFreeEnergy" style="width: 475px;"/>
 
@@ -211,7 +211,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 400px;"/>
 <img src="Figures/TightBond.png" alt="MAPbBr3" style="width: 400px;"/>
 
-* More stable bond has fewer availabe microstates
+* More stable bond has fewer available microstates
 * Less stable bond has greater $S_{vib}$
 
 <small> Butler, *In review*, **2018**</small>
@@ -228,11 +228,4 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *In review*, **2018**</small>
 ---
-### Flux Design
-### Flux Design
-
-$$\Delta G \simeq \Delta U$$
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
 
