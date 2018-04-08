@@ -194,6 +194,17 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *In review*, **2018**</small>
 ---
+### Hydrogen Bonding In Hybrids
+
+<img src="Figures/Figures/HBondStrength.jpeg" alt="MAPbBr3" style="width: 450px;"/>
+
+* Hybrid systems all feature hydrogen bonds
+* Differences in energy on the order of 1 kJmol$^{-1}$
+
+<small> Butler, *J. Phys. Chem. Lett.*, **2017**, 8, 24, 6154</small>
+---
+
+
 ### Flux Design
 
 $$\Delta G = \Delta U$$
