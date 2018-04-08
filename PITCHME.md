@@ -176,9 +176,8 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 | Tables        | Are           |
 | ------------- |:-------------:|
-<img src="Figures/Ordered.png" alt="MAPbBr3" style="width: 250px;"/> |
-<img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 250px;"/> |
-| ------------- |:-------------:|
+| <img src="Figures/Ordered.png" alt="MAPbBr3" style="width: 250px;"/> |<img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 250px;"/> |
+
 ---
 ### Flux Design
 
