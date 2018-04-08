@@ -182,6 +182,8 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <img src="Figures/Onoda.png" alt="MAPbBr3" style="width: 550px;"/>
 
+* Differences in $S_{config}$ of up to 27 kJmol$^{-1}$
+
 <small> *J. Phys. Chem. Solids*, **1990**, 51, 1383</small>
 ---
 ### Free Energy of Three Phases
