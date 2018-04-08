@@ -218,7 +218,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 
 <img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 400px;"/>
-<img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 350px;"/>
+<img src="Figures/Disordered.png" alt="MAPbBr3" style="width: 330px;"/>
 
 * $\Delta U \simeq 1 - 30 \text{kJmol}^{-1}$
 * $\Delta S_{vib} \simeq 1 - 20 \text{kJmol}^{-1}$
