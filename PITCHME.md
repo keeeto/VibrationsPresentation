@@ -172,10 +172,16 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *In review*, **2018**</small>
 ---
-### Origins of entropy I: Configurational entropy
+### Origins of entropy II: Configurational entropy
 
-<img src="Figures/OrderDisoeder.png" alt="MAPbBr3" style="width: 450px;"/>
+<img src="Figures/OrderDisoeder.png" alt="MAPbBr3" style="width: 550px;"/>
 
+---
+### Origins of entropy II: Configurational entropy
+
+<img src="Figures/Onoda.png" alt="MAPbBr3" style="width: 550px;"/>
+
+<small> *J. Phys. Chem. Solids*, **1990**, 51, 1383</small>
 ---
 ### Flux Design
 
