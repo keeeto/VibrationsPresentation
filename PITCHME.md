@@ -147,10 +147,20 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
-### Experiment and theory: MAPbBr$_3$
+### Experiment and theory: Halide Perovskites
 
 <img src="Figures/MAPbBr3.png" alt="MAPbBr3" style="width: 450px;"/>
 
+---
+### Comparison of INS and DFT spectra
+
+<img src="Figures/MAPbBr3.png" alt="MAPbBr3" style="width: 450px;"/>
+
+* DFT spectra simulated using `Abins` module in Mantid
+* Execellent agreement confirms theoretical model
+
+
+<small> Butler, *In review*, **2018**</small>
 ---
 ### Flux Design
 
