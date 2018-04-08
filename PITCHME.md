@@ -164,7 +164,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Free Energy of Three Phases
 
-<img src="Figures/Phaese.png" alt="MAPbBr3" style="width: 450px;"/>
+<img src="Figures/Phases.png" alt="MAPbBr3" style="width: 450px;"/>
 <img src="Figures/FreeEnergyNoConfig.png" alt="MAPbBr3" style="width: 450px;"/>
 ---
 ### Flux Design
