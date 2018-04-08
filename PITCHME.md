@@ -199,12 +199,21 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/HBondStrength.jpeg" alt="MAPbBr3" style="width: 450px;"/>
 
 * Hybrid systems all feature hydrogen bonds
-* Differences in energy on the order of 1 kJmol$^{-1}$
+* Differences in energy on the order of 1 - 10 kJmol$^{-1}$
 
 <small> Butler, *J. Phys. Chem. Lett.*, **2017**, 8, 24, 6154</small>
 ---
+### Hydrogen bond strength and $S_{vib}$
 
 
+<img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 450px;"/>
+<img src="Figures/TightBond.png" alt="MAPbBr3" style="width: 450px;"/>
+
+* More stable bond has fewer availabe microstates
+* Less stable bond has greater $S_{vib}$
+
+<small> Butler, *In review*, **2018**</small>
+---
 ### Flux Design
 
 $$\Delta G = \Delta U$$
