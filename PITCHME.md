@@ -233,7 +233,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/S.jpeg" alt="S" style="width: 300px;"/>
 
 * Entropy is very important in hybrid materials
-* $\Delta U, \Delta S_{vib} \text{and} \Delta S_{config}$ are all of the same order
+* $\Delta U \Delta S_{vib} \text{and} \Delta S_{config}$ are all of the same order
 * Combined neutron scattering and DFT can provide quantitative insights
 
 <small> Butler, *Chem. Sci.*, **2016**, 7, 6316</small>
