@@ -129,6 +129,12 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
+### Azide perovskites
+
+<img src="Figures/Azide.png" alt="Azide" style="width: 350px;"/>
+
+<small> Butler, *Angew. Chem.*, **2018**, *Just Accepted*</small>
+---
 ### Entropy in different hybrid perovskites
 
 <img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 650px;"/>
