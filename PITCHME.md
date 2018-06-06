@@ -164,7 +164,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Entropy in different hybrid perovskites
 
-<img src="Figures/DecomposedVibrations.png" alt="Decomposition" style="width: 475px;"/>
+<img src="Figures/DecomposedVibrations.png" alt="Decomposition" style="width: 525px;"/>
 
 * <span style="color:green"> Green - A-site </span>
 * <span style="color:blue"> Blue - B-site </span>
