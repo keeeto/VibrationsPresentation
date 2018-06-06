@@ -137,7 +137,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Azide perovskites
 
-<img src="Figures/AzideEnergies.png" alt="Azide" style="width: 380px;"/>
+<img src="Figures/AzideEnergies.png" alt="Azide" style="width: 390px;"/>
 <img src="Figures/AzideOrigins.png" alt="Azide" style="width: 350px;"/>
 
 * S$_{vib}$ drives the transition again
