@@ -135,6 +135,15 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Angew. Chem.*, **2018**, *Just Accepted*</small>
 ---
+### Azide perovskites
+
+<img src="Figures/AzideEnergies.png" alt="Azide" style="width: 350px;"/>
+<img src="Figures/AzideOrigins.png" alt="Azide" style="width: 350px;"/>
+
+* S$_{vib}$ drives the transition again
+* Modes < 10 THz contribute the majority of S$_{vib}$
+
+---
 ### Entropy in different hybrid perovskites
 
 <img src="Figures/GeneralHybrids.png" alt="FormateFreeEnergy" style="width: 650px;"/>
