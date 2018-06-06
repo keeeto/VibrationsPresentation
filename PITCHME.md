@@ -162,7 +162,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
-### Entropy in different hybrid perovskites
+### Atomic origin of vibrational modes
 
 <img src="Figures/DecomposedVibrations.png" alt="Decomposition" style="width: 600px;"/>
 
@@ -171,6 +171,15 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * <span style="color:orange"> Orange  X-site </span>
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
+---
+### A simple model for vibrational entropy differences
+
+<img src="Figures/Model/Slide1.png" alt="Decomposition" style="width: 600px;"/>
+
+---
+### A simple model for vibrational entropy differences
+
+<img src="Figures/Model/Slide2.png" alt="Decomposition" style="width: 600px;"/>
 ---
 ### Experiment and theory: Halide Perovskites
 
