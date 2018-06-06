@@ -176,10 +176,23 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <img src="Figures/Model/Slide1.png" alt="Decomposition" style="width: 600px;"/>
 
+<small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
 ### A simple model for vibrational entropy differences
 
 <img src="Figures/Model/Slide2.png" alt="Decomposition" style="width: 600px;"/>
+
+<small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
+---
+### Hydrogen bond strength and Entropy
+
+
+<img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 400px;"/>
+<img src="Figures/TightBond.png" alt="MAPbBr3" style="width: 400px;"/>
+
+* More stable bond has fewer available microstates
+* Less stable bond has greater $S_{vib}$
+
 ---
 ### Experiment and theory: Halide Perovskites
 
@@ -238,17 +251,6 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * Differences in energy on the order of 1 - 30 kJmol$^{-1}$
 
 <small> Butler, *J. Phys. Chem. Lett.*, **2017**, 8, 24, 6154</small>
----
-### Hydrogen bond strength and Entropy
-
-
-<img src="Figures/LooseBond.png" alt="MAPbBr3" style="width: 400px;"/>
-<img src="Figures/TightBond.png" alt="MAPbBr3" style="width: 400px;"/>
-
-* More stable bond has fewer available microstates
-* Less stable bond has greater $S_{vib}$
-
-<small> Butler, *In review*, **2018**</small>
 ---
 ### Competing Origins of Stability
 
