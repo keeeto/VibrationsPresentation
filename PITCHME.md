@@ -162,6 +162,16 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
+### Entropy in different hybrid perovskites
+
+<img src="Figures/DecomposedVibrations.png" alt="Decomposition" style="width: 475px;"/>
+
+* <span style="color:green"> Green - A-site </span>
+* <span style="color:blue"> Blue - B-site </span>
+* <span style="color:orange"> Orange - X-site </span>
+
+<small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
+---
 ### Experiment and theory: Halide Perovskites
 
 <img src="Figures/MAPbBr3.png" alt="MAPbBr3" style="width: 450px;"/>
