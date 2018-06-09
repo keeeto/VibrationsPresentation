@@ -289,7 +289,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Conclusions
 
-<img src="Figures/S.png" alt="S" style="width: 350px;"/>
+<img src="Figures/S.png" alt="S" style="width: 250px;"/>
 
 * Entropy is very important in <s>hybrid</s> all materials
 * `$\Delta U$` `$\Delta S_{vib}$` and `$\Delta S_{config}$` are all of the same order
