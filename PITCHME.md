@@ -174,7 +174,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### A simple model for vibrational entropy differences
 
-<img src="Figures/LowT_model.png" alt="Decomposition" style="width: 400px;"/>
+<img src="Figures/LowT_model.png" alt="Decomposition" style="width: 350px;"/>
 
 * Tighter, stronger intermolecular bonds in LT phase
 * Looser, weaker intermolecular bonds in LT phase
@@ -183,7 +183,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### A simple model for vibrational entropy differences
 
-<img src="Figures/HighT_model.png" alt="Decomposition" style="width: 400px;"/>
+<img src="Figures/HighT_model.png" alt="Decomposition" style="width: 350px;"/>
 
 * Low frequency modes become populated as T increases
 * Entropy of HT phase increases more rapidly
@@ -213,7 +213,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * Execellent agreement confirms theoretical model
 
 
-<small> Butler, *In review*, **2018**</small>
+<small> Butler, *PRL*, **2018**, *Just rejected*</small>
 ---
 ### Free Energy of Three Phases
 
@@ -223,7 +223,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 * No phase change predicted from calculations
 
-<small> Butler, *In review*, **2018**</small>
+<small> Butler, *PRL*, **2018**, *Just rejected*</small>
 ---
 ### Origins of entropy II: Configurational entropy
 
@@ -247,7 +247,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * Phase change predicted from calculations
 * Close to experimental values
 
-<small> Butler, *In review*, **2018**</small>
+<small> Butler, *PRL*, **2018**, *Just rejected*</small>
 ---
 ### Hydrogen Bonding In Hybrids
 
@@ -268,7 +268,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * $\Delta S_{vib} \simeq 1 - 20 \text{kJmol}^{-1}$
 * $\Delta S_{config} \simeq 1 - 30 \text{kJmol}^{-1}$
 
-<small> Butler, *In review*, **2018**</small>
+<small> Butler, *PRL*, **2018**, *Just rejected*</small>
 ---
 ### Thermal conductivity
 
@@ -293,7 +293,8 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 * Entropy is very important in <s>hybrid</s> all materials
 * `$\Delta U$` `$\Delta S_{vib}$` and `$\Delta S_{config}$` are all of the same order
-* Combined neutron scattering and DFT can provide quantitative insights
+* Intermolecular interactions can provide a route to reduced tuning phase transitions
+* Intermolecular interactions can provide a route to reduced tuning thermal conductivity
 
 <small> Butler, *Chem. Sci.*, **2016**, 7, 6316</small>
 ---
