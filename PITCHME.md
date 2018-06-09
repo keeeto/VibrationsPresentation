@@ -174,7 +174,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### A simple model for vibrational entropy differences
 
-<img src="Figures/LowT_model.png" alt="Decomposition" style="width: 300px;"/>
+<img src="Figures/LowT_model.png" alt="Decomposition" style="width: 400px;"/>
 
 * Tighter, stronger intermolecular bonds in LT phase
 * Looser, weaker intermolecular bonds in LT phase
@@ -183,7 +183,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### A simple model for vibrational entropy differences
 
-<img src="Figures/HighT_model.png" alt="Decomposition" style="width: 300px;"/>
+<img src="Figures/HighT_model.png" alt="Decomposition" style="width: 400px;"/>
 
 * Low frequency modes become populated as T increases
 * Entropy of HT phase increases more rapidly
