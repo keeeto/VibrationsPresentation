@@ -174,7 +174,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### A simple model for vibrational entropy differences
 
-<img src="Figures/HighT_model.png" alt="Decomposition" style="width: 600px;"/>
+<img src="Figures/LowT_model.png" alt="Decomposition" style="width: 600px;"/>
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
 ---
