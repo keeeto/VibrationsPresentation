@@ -276,7 +276,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Thermal conductivity
 
-<img src="Figures/Conductivities.png" alt="MAPbBr3" style="width: 550px;"/>
+<img src="Figures/Conductivities.png" alt="MAPbBr3" style="width: 450px;"/>
 
  `$\kappa = \frac{1}{NV_0}\sum C_{\lambda} v_{\lambda} \otimes v_{\lambda} \tau_{\lambda}$`
 
