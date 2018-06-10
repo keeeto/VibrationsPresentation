@@ -100,9 +100,9 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 * $$S_{vib} = \frac{1}{2T} \sum \hbar\omega \text{coth}(\hbar\omega/2k_BT) - k_B \sum \ln(2 \text{sinh}(\hbar \omega/2k_BT))$$ 
 
 ---
-### Lattice dynamics allows the calculation of $$S_{vib}$$
+### Lattice dynamics allows calculation of $$S_{vib}$$
 
-<img src="Figures/TheLads.png" alt="Formate" style="width: 700px;"/> 
+<img src="Figures/TheLads.png" alt="Formate" style="width: 600px;"/> 
 
 * Einstein **1912**
     * T dependence of Cv
