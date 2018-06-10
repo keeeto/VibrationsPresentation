@@ -293,8 +293,8 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 
 * Entropy is very important in <s>hybrid</s> all materials
 * `$\Delta U$` `$\Delta S_{vib}$` and `$\Delta S_{config}$` are all of the same order in hybrids
-* Intermolecular interactions can provide a route to reduced tuning phase transitions
-* Intermolecular interactions can provide a route to reduced tuning thermal conductivity
+* Intermolecular interactions and disorder can provide a route to tuning phase transitions
+* Intermolecular interactions and disorder can provide a route to tuning thermal conductivity
 
 <small> Butler, *Chem. Sci.*, **2016**, 7, 6316</small>
 ---
