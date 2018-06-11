@@ -125,7 +125,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/FormateFreeEnergy.png" alt="FormateFreeEnergy" style="width: 350px;"/>
  
 * <span style="color:orange"> Orange - perovskite structure </span>
-* <span style="color:blue"> Blue - channel structure </span>
+* <span style="color:#0066ff"> Blue - channel structure </span>
 
 <small> Butler, *Chem. Comm.*, **2015**, 51, 15538</small>
 ---
@@ -167,7 +167,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 <img src="Figures/DecomposedVibrations.png" alt="Decomposition" style="width: 600px;"/>
 
 * <span style="color:green"> Green  A-site </span>
-* <span style="color:blue"> Blue  B-site </span>
+* <span style="color:#0066ff"> Blue  B-site </span>
 * <span style="color:orange"> Orange  X-site </span>
 
 <small> Butler, *Phys. Rev. B (R)*, **2016**, 94, 180103</small>
