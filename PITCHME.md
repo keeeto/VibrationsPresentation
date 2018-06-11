@@ -68,7 +68,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Formate perovskites
 
-<img src="Figures/PerovskiteChannel.png" alt="Formate" style="width: 700px;"/> 
+<img src="Figures/PerovskiteChannel.png" alt="Formate" style="width: 450px;"/> 
 
 * Structures do not follow the Goldschmidt predictions
 
@@ -131,7 +131,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Azide perovskites
 
-<img src="Figures/Azide.png" alt="Azide" style="width: 350px;"/>
+<img src="Figures/Azide.png" alt="Azide" style="width: 450px;"/>
 
 <small> Butler, *Angew. Chem.*, **2018**, *Just Accepted*</small>
 ---
