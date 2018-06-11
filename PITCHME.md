@@ -207,7 +207,7 @@ $$TF = \frac{r_a + r_x}{\sqrt{2} (r_b + r_x)}$$
 ---
 ### Comparison of INS and DFT spectra
 
-<img src="Figures/INS-DFT.png" alt="MAPbBr3" style="width: 450px;"/>
+<img src="Figures/INS-DFT.png" alt="MAPbBr3" style="width: 420px;"/>
 
 * DFT spectra simulated using `Abins` module in `Mantid`
 * Execellent agreement confirms theoretical model
